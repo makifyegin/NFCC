@@ -37,7 +37,7 @@ Panlogic: Mapping Earthquakes with p5 library with using java script. This is on
 <br />
 <div align="center">
   <a href="https://github.com/makifyegin/eartquake/">
-    <img src="images/fireman.png" alt="Logo">
+    <img src="images/fireman.jpeg" alt="Logo">
   </a>
 
   <h3 align="center">Earth Quake Project with Java Script</h3>
