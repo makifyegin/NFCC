@@ -1,3 +1,6 @@
+<p align="center">
+<img src="images/panlogicLogo.jpg" alt="Logo">
+</p>
 Panlogic: Mapping Earthquakes with p5 library with using java script. This is only educational purposes to learn java script and try to do project instead of visualizing map with java8 eclipse project with UnfoldingMaps.
 
 
@@ -24,20 +27,21 @@ Panlogic: Mapping Earthquakes with p5 library with using java script. This is on
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+ -->
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/makifyegin/eartquake/">
-    <img src="images/fireman.jpeg" alt="Logo">
+    <img src="images/fireman.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Earth Quake Project with Java Script</h3>
