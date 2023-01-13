@@ -47,7 +47,7 @@
     <img src="images/fireman.jpg" alt="Logo">
   </a>
 
-  <h3 align="center">Earth Quake Project with Java Script</h3>
+  <h3 align="center">NFCC Project with Playwright</h3>
 
   <p align="center">
     <br />
