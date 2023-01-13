@@ -1,3 +1,4 @@
+<span style="font-family: JetBrains Mono">
 <div align="center">
   <a href="https://www.panlogic.co.uk/">
     <img src="images/panlogic-logo.png" alt="Logo">
@@ -155,3 +156,4 @@ This section should list any major frameworks/libraries used to selenium my proj
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneiw
 [product-screenshot]: images/screenshot.png
+</span>
