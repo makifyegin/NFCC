@@ -1,4 +1,4 @@
-<span style="font-family: JetBrains Mono">
+<span style="font-family:./Font/ttf/JetBrainsMono-Regular.ttf">
 <div align="center">
   <a href="https://www.panlogic.co.uk/">
     <img src="images/panlogic-logo.png" alt="Logo">
