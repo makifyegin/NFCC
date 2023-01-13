@@ -5,8 +5,7 @@
 
 </div>
 
-Panlogic: Mapping Earthquakes with p5 library with using java script. This is only educational purposes to learn java script and try to do project instead of visualizing map with java8 eclipse project with UnfoldingMaps.
-
+<b>Panlogic:</b> For our emergency services confidence in documentation is key. The UK fire and rescue services required an organisation wide review and redevelopment of their online operational guidance publication platform to ensure consistency and best-practice across guidance, learning and training systems. Panlogic delivered the strategy, ideation, user experience, design, build and ongoing development of the service. See <a href ="https://www.ukfrs.com">NFCC</a>. This is the testing framework of NFCC.
 
 
 
