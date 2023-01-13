@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/panlogicLogo.jpg" alt="Logo">
+<img src="images/panlogicLogo.png" alt="Logo">
 </p>
 Panlogic: Mapping Earthquakes with p5 library with using java script. This is only educational purposes to learn java script and try to do project instead of visualizing map with java8 eclipse project with UnfoldingMaps.
 
