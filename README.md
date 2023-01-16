@@ -44,7 +44,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/makifyegin/eartquake/">
+  <a href="https://github.com/makifyegin/NFCC/">
     <img src="images/fireman.jpg" alt="Logo">
   </a>
 
@@ -52,7 +52,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/makifyegin/eartquake/issues">Report Bug</a>
+    <a href="https://github.com/makifyegin/NFCC/issues">Report Bug</a>
   </p>
 </div>
 
@@ -64,7 +64,7 @@
 ## Contact
 
 
-Project Link: [https://github.com/makifyegin/eartquake](https://github.com/makifyegin/eartquake)
+Project Link: [https://github.com/makifyegin/NFCC](https://github.com/makifyegin/NFCC)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,16 +92,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/makifyegin/eartquake.svg?style=for-the-badge
-[contributors-url]: https://github.com/makifyegin/eartquake/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/makifyegin/eartquake.svg?style=for-the-badge
-[forks-url]: https://github.com/makifyegin/eartquake/network/members
-[stars-shield]: https://img.shields.io/github/stars/makifyegin/eartquake.svg?style=for-the-badge
-[stars-url]: https://github.com/makifyegin/eartquake/stargazers
-[issues-shield]: https://img.shields.io/github/issues/makifyegin/eartquake.svg?style=for-the-badge
-[issues-url]: https://github.com/makifyegin/eartquake/issues
-[license-shield]: https://img.shields.io/github/license/makifyegin/eartquake.svg?style=for-the-badge
-[license-url]: https://github.com/makifyegin/eartquake/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/makifyegin/NFCC.svg?style=for-the-badge
+[contributors-url]: https://github.com/makifyegin/NFCC/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/makifyegin/NFCC.svg?style=for-the-badge
+[forks-url]: https://github.com/makifyegin/NFCC/network/members
+[stars-shield]: https://img.shields.io/github/stars/makifyegin/NFCC.svg?style=for-the-badge
+[stars-url]: https://github.com/makifyegin/NFCC/stargazers
+[issues-shield]: https://img.shields.io/github/issues/makifyegin/NFCC.svg?style=for-the-badge
+[issues-url]: https://github.com/makifyegin/NFCC/issues
+[license-shield]: https://img.shields.io/github/license/makifyegin/NFCC.svg?style=for-the-badge
+[license-url]: https://github.com/makifyegin/NFCC/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/makifyegin
 [product-screenshot]: images/screenshot.png
@@ -154,6 +154,6 @@ This section should list any major frameworks/libraries used to selenium my proj
 [license-shield]: https://img.shields.io/github/license/makifyegin/eartquake.svg?style=for-the-badge
 [license-url]: https://github.com/makifyegin/eartquake/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneiw
+[linkedin-url]: https://linkedin.com/in/makifyegin
 [product-screenshot]: images/screenshot.png
 </span>
